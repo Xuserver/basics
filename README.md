@@ -1,11 +1,17 @@
 PEOC JAVA Exercices sur Github
 
+/* GITHUB */
 1/ create Maven project
-2/ connect your IDE to git https://github.com/Xuserver/basics.git
+2/ connect your IDE to git https://github.com/Xuserver/basics.git 
 3/ run App psvm
-4/ change some code ... try "commit" on your local repo ... then "push"
+4/ change some code ...  "commit" and "stage" on your local repo ... then "push" with a message on remote repo
 
 
+/* JAVA */
+A la racine, le fichier App contient le main permet de lancer la série d'exerices 
+Chaque exercice ou série d'exercice est dans une classe dans le dossier SRC ... à vos claviers
+
+:-)
 
 
 
