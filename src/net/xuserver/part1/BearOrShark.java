@@ -16,6 +16,7 @@ public class BearOrShark {
         }
         if (luck < 10)
             System.out.print("Shark");
+            
     }
 
     public static void calendar() {

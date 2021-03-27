@@ -10,11 +10,10 @@ public class App {
 
         System.out.println("BearShark");
 
-        
         BearOrShark.calendar();
         BearOrShark.luck(9);
         BearOrShark.luck(11);
-
+        BearOrShark.luck(13);
 
     }
 

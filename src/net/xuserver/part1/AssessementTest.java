@@ -54,6 +54,8 @@ public class AssessementTest {
         System.out.println(s1.equals(s2)); // true same value
         System.out.println(sb1.toString() == s1); // false different adress
         System.out.println(sb1.toString().equals(s1)); // true same value
+
+        
     }
 
     public static void Q3() {
