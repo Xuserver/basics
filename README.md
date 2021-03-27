@@ -1,3 +1,14 @@
+PEOC JAVA Exercices sur Github
+
+1/ create Maven project
+2/ connect your IDE to git https://github.com/Xuserver/basics.git
+3/ run App psvm
+4/ change some code ... try "commit" on your local repo ... then "push"
+
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.

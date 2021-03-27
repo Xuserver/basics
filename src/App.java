@@ -3,7 +3,7 @@ import net.xuserver.part1.BearOrShark;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, POEC!");
         System.out.println("Assessement Tests");
         String[] arg = {""};
         AssessementTest.main(arg);
