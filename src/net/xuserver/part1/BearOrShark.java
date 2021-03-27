@@ -2,14 +2,14 @@ package net.xuserver.part1;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.ArrayList;
 import java.util.Calendar;
-import java.util.List;
 import java.util.function.Predicate;
 
 public class BearOrShark {
-    /*
-    public static void main(String[] args) {
+
+    public static void luck(int val) {
+
+        System.out.print("Testing 10 / " + val);
         int luck = 10;
         if ((luck > 10 ? luck++ : --luck) < 10) {
             System.out.print("Bear");
@@ -17,9 +17,8 @@ public class BearOrShark {
         if (luck < 10)
             System.out.print("Shark");
     }
-    */
 
-    public static void main(String[] args) {
+    public static void calendar() {
         // INSERT CODE HERE
         System.out.println(test(i -> i == 5));
         //System.out.println(test(i -> {i == 5;}));
@@ -33,8 +32,6 @@ public class BearOrShark {
         System.out.println(LocalDate.of(2015, Month.APRIL, 1));
         System.out.println(LocalDate.of(2015, 3, 1));
         System.out.println(LocalDate.of(2015, 4, 1));
-
-
         
         //System.out.println(new LocalDate(2015, 3, 1));
         //System.out.println(new LocalDate(2015, 4, 1));
@@ -42,7 +39,6 @@ public class BearOrShark {
     }
 
     private static boolean test(Predicate<Integer> p) {
-
         return p.test(5);
     }
 }
